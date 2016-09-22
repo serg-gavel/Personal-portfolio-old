@@ -227,6 +227,8 @@ h1 {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-left: -6px;
+    margin-right: 6px;
 }
 .grid-itm {
     margin-bottom: 80px;
