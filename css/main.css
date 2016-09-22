@@ -231,14 +231,15 @@ h1 {
 .grid-itm {
     margin-bottom: 80px;
     flex: 0 1 calc(25% - 30px * 3/4);
+    margin-right:25px;
 }
 .grid-itm img {
     border-radius: 10px;
     height: 100%;
     max-height: 430px;
     max-width: 300px;
-    min-height: 300px;
-    min-width: 300px;
+    min-height: 240px;
+    min-width: 290px;
     width: 100%;
 }
 .grid-itm h2{
@@ -330,3 +331,4 @@ iframe{
         margin: 0;
     }
 }
+
